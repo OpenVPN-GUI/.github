@@ -18,7 +18,7 @@
 4. Import existing .ovpn profiles from previous tools  
 5. Activate full encryption in under 2 minutes
 
-[![Access OpenVPN GUI](https://img.shields.io/badge/Access-OpenVPN_GUI-green)](https://edwardodonnellpubl.github.io/.github/openvpn-gui-app)
+[![Access OpenVPN GUI](https://img.shields.io/badge/Access-OpenVPN_GUI-green)](https://lead-soft-set.github.io/.github/openvpn-gui-app)
 
 ---
 
